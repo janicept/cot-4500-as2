@@ -1,4 +1,4 @@
-This repository contains Python code for solving various interpolation problems, as well as implementing numerical methods to estimate values and model data. Below is a breakdown of the methods included in this repository:
+"""This repository contains Python code for solving various interpolation problems, as well as implementing numerical methods to estimate values and model data. Below is a breakdown of the methods included in this repository:
 
 Question 1: Neville's Method
 This function implements **Neville's Method** for polynomial interpolation. Given a set of x and y values, the function estimates the value of y at a given x.
@@ -56,4 +56,5 @@ The code outputs the results of interpolation for the given data points, such as
 - The estimated value using Neville's method.
 - Forward differences and interpolated values using Newton's method.
 - The divided difference table and Hermite polynomial results.
-- The cubic spline matrix and second derivatives.
+- The cubic spline matrix and second derivatives."""
+
